@@ -1,0 +1,176 @@
+main{
+    background-color: #FFFFFF;
+
+}
+.header{
+    background-color: #FFFFFF;
+}
+.contains{
+    background-color: rgba(255, 144, 14, 0.1);
+    width: 100%;
+     height: 1022px; 
+    
+}
+.nabvar{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    
+}
+.left-side ul{
+    display: flex;
+   
+}
+.left-side li{
+    list-style: none;
+    margin-left: 50px;
+    
+}
+.section-title{
+    text-align: center;
+
+}
+.sub-section{
+    padding-bottom: 15px;
+}
+.sub-section button{
+    background-color: #FF900E;
+    color: #FFFFFF;
+    border-radius: 3px;
+    text-align: ;
+    
+    
+}
+.section-image img{
+    height: 555px;
+    width: 1034px;
+    padding-left: 130px;
+}
+    /* start group section */
+    .group-container{
+        background-color: #FFFFFF;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+
+        
+    }
+    .group-pic{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr) ;
+        padding-left: 80px;
+        
+    }
+    .pic-2{
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+    .pic-4{
+        margin-left: 10px;
+    }
+    .group-text{
+        padding-left: 70px;
+         padding-top: 156px;
+}
+    
+    .btn-section button{
+        background-color: #FF900E;
+        margin: 0px;
+        border-radius: 3px;
+
+    }
+    .btn{
+        color: #FFFFFF;
+        width: 131px;
+        height: 23px;
+    }
+    /* business plan start */
+    .business-plan{
+        background-color: #FFFFFF;
+        display: flex;
+    }
+    .bus-head-1st{
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+        background: #FFFFFF;
+    }
+    .business-head-2nd{
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+    .business-head-3rd{
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+    .business-head-4th{
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+    .business-head-5th{
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+    .leader-pic img{
+        width: 454px;
+        height: 552px;
+        position: relative;
+    }
+    .extra-button button{
+        position: absolute;
+        background-color: #FF900E;
+        margin-top: -27px;
+    }
+    .facts-issue{
+        text-align: center;
+    }
+    /* start icons */
+    .icons{
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #FFFFFF;
+        
+    }
+    .customers{
+        height: 150px;
+        width: 150px;
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+    .email{
+        height: 150px;
+        width: 150px;
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+    .projects{
+        height: 150px;
+        width: 150px;
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+
+    }
+    .ribon{
+        height: 150px;
+        width: 150px;
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); 
+    }
+
+    /* start different company logo */
+    .sponsor{
+        text-align: center;
+        background-color: #FFFFFF;
+    }
+    .company{
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #FFFFFF;
+    }
+    .amazon{
+        color: #000000;
+    }
+    .figma{
+        color: solid #3780FF;
+    }
+    /* footer area */
+    .footer-area {
+        font-size: 20px;
+        width: 400;
+        text-align: center;
+        background-color: FFF4E7;
+    }
+    .btn-f{
+        background-color: #FFF4E7;
+        padding-left: 160px;
+        padding-right: 160px;
+    }
